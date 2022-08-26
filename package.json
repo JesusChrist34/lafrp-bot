@@ -1,0 +1,39 @@
+{
+  "name": "italian-rp-bot",
+  "version": "2.1.0",
+  "main": "index.js",
+  "engines": {
+    "node": "16.14.0"
+  },
+  "dependencies": {
+    "@haileybot/captcha-generator": "^1.7.0",
+    "@reconlx/discord.js": "^1.1.101",
+    "ascii-table": "0.0.9",
+    "dayjs": "^1.10.6",
+    "discord-antiraid": "^2.2.0",
+    "discord-backup": "^3.0.1",
+    "discord-html-transcripts": "^1.1.1",
+    "discord-logs": "^2.0.1",
+    "discord.js": "^13.6.0",
+    "discord.js-collector": "^1.8.9",
+    "events": "^3.3.0",
+    "express": "^4.17.1",
+    "git": "^0.1.5",
+    "glob": "^7.1.7",
+    "heroku": "^7.60.2",
+    "moment": "^2.29.1",
+    "mongoose": "^5.13.9",
+    "ms": "^2.0.0",
+    "node-fetch": "^2.6.6",
+    "rebuild": "^0.1.2",
+    "tech-tip-cyber": "^1.2.3",
+    "twemoji-parser": "^13.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
